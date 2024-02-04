@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         checkBox = findViewById(R.id.checkBox);
         switchButton = findViewById(R.id.switchButton);
         radioGroup = findViewById(R.id.radioGroup);
-        textView1 = findViewById(R.id.textView1);ee
+        textView1 = findViewById(R.id.textView1);
 
         changeTextButton.setOnClickListener(new View.OnClickListener() {
             @Override
